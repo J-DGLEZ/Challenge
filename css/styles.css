@@ -5,9 +5,9 @@ body {
   
   width : 400px;
 }
-/* span{
-  display:none;
-} */
+ .span{ 
+   display:none;
+}  
 textarea{
   display:none;
 }
