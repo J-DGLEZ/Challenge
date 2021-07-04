@@ -1,7 +1,7 @@
 const ingd = document.querySelector("#ing");
 const btn = document.querySelector("#entry");
 const error = document.querySelector("#msgerror");
- const textatea = document.querySelector("#textarea");
+ const textarea = document.querySelector("#textarea");
 const btn2 = document.querySelector("#entry2");
 const span = document.querySelector("#span");
 
@@ -45,6 +45,7 @@ function generateList() {
  function display (){
  document.querySelector("#span").style.display="block";
  document.querySelector("#textarea").style.display = "block";
+ textarea.focus();
 
 
 
