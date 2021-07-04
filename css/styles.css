@@ -7,7 +7,15 @@ body {
 }
  .span{ 
    display:none;
+   font-style: oblique;
+   margin-left: 45px;
+   color: red green ;
 }  
 textarea{
   display:none;
+  border :1px solid blue;
+  margin-left: 16px;
 }
+#list {
+  display: none;
+} 
