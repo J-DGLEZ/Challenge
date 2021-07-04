@@ -1,0 +1,13 @@
+body {
+    background-color: antiquewhite;
+}
+#container {
+  
+  width : 400px;
+}
+/* span{
+  display:none;
+} */
+textarea{
+  display:none;
+}
